@@ -2,9 +2,9 @@
 
 Build [Wechat Official Account](https://mp.weixin.qq.com) Development Enviroment With Rails
 
-#### Start Our Server
+#### Start Local Server
 
-1\. Start Nginx
+**1. Start Nginx**
 
 Wechat Server transmits data with your server start in 80 port
 
@@ -29,7 +29,7 @@ server {
 ```
 
 
-2\. Start Rails Server
+**2. Start Rails Server**
 
 bundle install
 
@@ -37,7 +37,7 @@ setup [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)
 
 rails s
 
-3\. Start Natapp
+**3. Start Natapp**
 
 [Natapp](https://natapp.cn/) is NAT traversal tool for supporting public ip.
 
@@ -55,7 +55,7 @@ usage [Natapp client](https://natapp.cn/article/nohup)
 
 #### Issues
 
-1. [测试公众服务号 添加接口配置信息失败](https://github.com/Eric-Guo/wechat/issues/185)
+[测试公众服务号 添加接口配置信息失败](https://github.com/Eric-Guo/wechat/issues/185)
 
 #### Thanks
 
