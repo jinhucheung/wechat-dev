@@ -1,0 +1,46 @@
+button:
+ -
+  name: "开源项目"
+  sub_button:
+   -
+    type: "view"
+    name: "项目推荐"
+    url: "https://gitee.com/explore/recommend"
+   -
+    type: "view"
+    name: "码云周刊"
+    url:  "http://mp.weixin.qq.com/mp/homepage?__biz=MzI5NjMwNzM3MA==&hid=5&sn=264f583977963b2bfac19464bf88bf28&scene=18#wechat_redirect"
+   -
+    type: "view"
+    name: "GVP计划"
+    url:  "https://gitee.com/gvp"
+ -
+  name: "年度盘点"
+  sub_button:
+   -
+    type: "view"
+    name: "个人盘点"
+    url:  "https://gitee.com/2017-user-statistics"
+   -
+    type: "view"
+    name: "年度报告"
+    url:  "https://gitee.com/2017annual"
+ -
+  name: "更多帮助"
+  sub_button:
+    -
+     type: "view"
+     name: "技术支持"
+     url:  "http://git.mydoc.io/"
+    -
+     type: "view"
+     name: "帮助文档"
+     url:  "http://git.mydoc.io/"
+    -
+     type: "view"
+     name: "技能图谱"
+     url:  "http://git.mydoc.io/"
+    -
+     type: "view"
+     name: "企业服务"
+     url:  "http://gitee.com/enterprises"
