@@ -51,7 +51,7 @@ usage [Natapp client](https://natapp.cn/article/nohup)
 
 2. Fill in these following configuare
 
-![Wechat Debug Account configuare](screenshots/debug_account.png)
+![Wechat Debug Account configuare](debug_account.png)
 
 #### Issues
 
